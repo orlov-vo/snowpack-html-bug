@@ -1,0 +1,8 @@
+{
+  "mount": {
+    "src": "/"
+  },
+  "plugins": [
+    "./dev/html-plugin.js"
+  ]
+}

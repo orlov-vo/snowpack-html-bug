@@ -1,0 +1,11 @@
+{
+  "name": "snowpack-html-bug",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "snowpack build"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "snowpack": "^3.2.2"
+  }
+}
